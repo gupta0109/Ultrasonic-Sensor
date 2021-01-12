@@ -5,8 +5,8 @@ if the distance of the unknown object is less than the range entered in our code
 In this case the range entered is 50 inches
 
 
-# The circuit diagram of our Security Device- 
+# The circuit diagram of the Security Device- 
 ![JPG1](Resources/UltrasonicSensorCkt.JPG)
 
-# The simulation of the ultrasonic sensor security alarm in action-
+# The simulation of the ultrasonic security sensor alarm in action-
 ![gif1](Resources/UltrasonicSensorgif.gif)
