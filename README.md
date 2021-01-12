@@ -6,7 +6,7 @@ In this case the range entered is 50 inches
 
 
 # The circuit diagram of our Security Device- 
-![JPG1](Resuorces/Ultrasonic Sensor Ckt.JPG)
+![JPG1](Resources/Ultrasonic Sensor Ckt.JPG)
 
 # The simulation of the ultrasonic sensor security alarm in action-
 ![gif1](Resources/UltrasonicSensorgif.gif)
